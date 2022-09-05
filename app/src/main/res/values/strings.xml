@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculadoraT</string>
+    <string name="funciones">Funciones</string>
+    <string name="sin">SIN</string>
+    <string name="cos">COS</string>
+    <string name="tan">TAN</string>
+    <string name="grados">Grados</string>
+    <string name="_45">45ª</string>
+    <string name="_90">90ª</string>
+    <string name="_180">180ª</string>
+    <string name="resultado">Resultado</string>
+    <string name="todo">TODO</string>
+</resources>
